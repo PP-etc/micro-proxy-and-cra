@@ -2,6 +2,7 @@
   "name": "micro-proxy-and-cra",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/static-website",
   "dependencies": {
     "micro-proxy": "^1.1.0",
     "react": "^16.6.3",
